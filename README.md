@@ -48,10 +48,19 @@ click on Manage DNS
 
 8. Enjoy your Proxy "https://signal.tube/#<YOUR_DOMAIN>"
 
-## Price
+## FAQ
 
-The smallest Server on Hetzner CX11 costs 3,92 €/Month
+   **Is it possible to look at the messages which are going through the tls proxy?**
+
+   -> No, Signal is e2e encrypted which means that only the sender and the receiver are able to write and send messages.
+
+   **How much does a Hetzner Server costs (without the domain)?**
+   
+   -> I choose the smallest server on hetzner (CX11) which costs 3,92 €/Month (Price from 09.10.2022) and can be cancelled on a daily basis! There a no hidden costs.
 
 ## TLS Proxy
 
+[Help users in Iran reconnect to Signal](https://signal.org/blog/help-iran-reconnect/)
+
+#IRanASignalProxy
 https://signal.tube/#signal.crazybanana.link

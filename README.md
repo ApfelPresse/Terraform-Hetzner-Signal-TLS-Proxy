@@ -14,9 +14,10 @@ Setup Signal TLS Proxy on Hetzner with Terraform
 ## Quickstart
 
 1. To get started you first need an API token. Sign in into the [Hetzner Cloud Console](https://accounts.hetzner.com/login) choose a Project, go to Security → API Tokens, and generate a new token.
-2. Create a file with **terraform.tfvars** in the folders bootstrap and cert with the API Token from step 1.
+2. Create a file with **terraform.tfvars** in the folders bootstrap and cert with the API Token from step 1 and your domain.
 
        hcloud_token = "aaaaaaahfhajsdjsjhasdhkjasdhkasd"
+       domain = "your.domain.com"
  
 3. In the folder bootstrap run following commands
 
@@ -49,4 +50,8 @@ click on Manage DNS
 
 ## Price
 
-The smallest Server on Hetzner CX11 costs 3,92 €/Month 
+The smallest Server on Hetzner CX11 costs 3,92 €/Month
+
+## TLS Proxy
+
+https://signal.tube/#signal.crazybanana.link

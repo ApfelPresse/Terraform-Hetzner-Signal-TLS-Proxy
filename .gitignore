@@ -1,1 +1,5 @@
-/data/certbot
+**terraform.*
+
+/signal_tls/data/certbot
+/.idea/
+/cert/dns.tf

@@ -3,8 +3,6 @@
 
 # Signal TLS Proxy with Terraform on Hetzner
 
----
-
 Setup Signal TLS Proxy on Hetzner with Terraform
 
 ## Precondition
